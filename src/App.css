@@ -1,0 +1,32 @@
+.main{width:1240px;
+height:1000px;
+position: relative;
+margin:0 auto;
+background-color: lightsteelblue;}
+
+.caption{
+  width:1240px;
+  height:100px;
+  position:absolute;
+  top:0px;
+  left:0px;
+  text-align: center;
+  font-size:40px;
+  background-color: darkblue;
+  color:white;
+  padding-top: 20px;
+}
+
+.form {width:1240px;
+height:400px;
+position: absolute;
+top:120px;
+left:0px;
+padding-top:20px;}
+
+.list-posts{width:1240px;
+height:900px;
+position: absolute;
+top:500px;
+left:0px;
+}
